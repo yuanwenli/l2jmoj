@@ -7,7 +7,7 @@
             <li>
                 <div>
                     <img src="//img12.360buyimg.com/jrpmobile/jfs/t2971/333/1297567079/898/f2d2e00d/577dc28dNe5138337.png?width=108&height=108" alt="">
-                    <p>客户端</p>
+                    <p>客户端24234</p>
                 </div>
                 <div>
                     <img src="//img12.360buyimg.com/jrpmobile/jfs/t2824/256/2966087355/831/188bfa25/577cf3dcN18aadbf2.png?width=108&height=108" alt="">
