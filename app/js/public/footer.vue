@@ -16,6 +16,7 @@
                 <div>
                     <img src="//img12.360buyimg.com/jrpmobile/jfs/t2920/282/1283157010/1040/23f1430b/577cf3e5N53f740b8.png?width=108&height=108" alt="">
                     <p>电脑版</p>
+                    <p>yuan2</p>
                 </div>
             </li>
             <li>Copyright © 2004-2017 京东JD.com 版权所有</li>
