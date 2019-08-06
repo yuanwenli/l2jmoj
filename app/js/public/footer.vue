@@ -12,7 +12,7 @@
                 <div>
                     <img src="//img12.360buyimg.com/jrpmobile/jfs/t2824/256/2966087355/831/188bfa25/577cf3dcN18aadbf2.png?width=108&height=108" alt="">
                     <p>触屏版</p>
-                </div>
+                 </div>
                 <div>
                     <img src="//img12.360buyimg.com/jrpmobile/jfs/t2920/282/1283157010/1040/23f1430b/577cf3e5N53f740b8.png?width=108&height=108" alt="">
                     <p>电脑版</p>
