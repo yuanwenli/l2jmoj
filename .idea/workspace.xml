@@ -37,8 +37,13 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/js/public/footer.vue">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="162">
               <caret line="9" selection-start-line="9" selection-end-line="9" />
+=======
+            <state relative-caret-position="108">
+              <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+>>>>>>> yuan
             </state>
           </provider>
         </entry>
@@ -59,7 +64,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="yuan" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
   </component>
@@ -168,7 +173,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="11559000" />
+=======
+    <option name="totallyTimeSpent" value="10347000" />
+>>>>>>> yuan
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -236,10 +245,13 @@
         </entry>
       </map>
     </option>
+<<<<<<< HEAD
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="解决冲突" />
     <option name="LAST_COMMIT_MESSAGE" value="解决冲突" />
+=======
+>>>>>>> yuan
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.md">
@@ -311,8 +323,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/js/public/footer.vue">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="162">
           <caret line="9" selection-start-line="9" selection-end-line="9" />
+=======
+        <state relative-caret-position="108">
+          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+>>>>>>> yuan
         </state>
       </provider>
     </entry>
